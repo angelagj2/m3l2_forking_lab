@@ -1,3 +1,3 @@
 Angela
 MK
-Front-end
+Front-end developer
